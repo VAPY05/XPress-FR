@@ -1,0 +1,19 @@
+{
+  "name": "@xpress/cli",
+  "version": "1.0.0",
+  "description": "CLI tool for XPress Framework",
+  "main": "bin/xpress-cli.js",
+  "bin": {
+    "xpress": "./bin/xpress-cli.js"
+  },
+  "keywords": [
+    "xpress",
+    "cli",
+    "express",
+    "framework"
+  ],
+  "author": "Cryptos",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^11.0.0"
+  }}
