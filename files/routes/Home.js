@@ -1,5 +1,6 @@
-const BaseRoute = require('../../core/RouteClass.js');
-const isAdmin = require('../../core/AdminMiddleware.js');
+const BaseRoute = require('../../core/Classes/RouteClass.js');
+const isAdmin = require('../../core//Classes/Middlewares/AdminMiddleware.js');
+
 
 class HomeRoute extends BaseRoute {
     constructor() {

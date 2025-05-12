@@ -1,4 +1,4 @@
-const BaseModel = require('../../core/ModelClass.js');
+const BaseModel = require('../../core/Classes/ModelClass.js');
 const mongoose = require('mongoose');
 const bcrypt = require('bcrypt');
 

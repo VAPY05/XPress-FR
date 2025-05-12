@@ -1,4 +1,4 @@
-const BaseRoute = require('../../core/RouteClass.js');
+const BaseRoute = require('../../core/Classes/RouteClass.js');
 const ProfileModel = require('../models/Profile.js');
 const jwt = require('jsonwebtoken');
 const { jwtSecret, jwtExpire } = require('../../config.js');
